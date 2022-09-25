@@ -1,6 +1,6 @@
 {
   "name": "@contentful/f36-utils",
-  "version": "4.19.2",
+  "version": "4.20.6",
   "description": "Forma 36: utils React Component",
   "license": "MIT",
   "files": [
@@ -20,7 +20,6 @@
     "build": "tsup"
   },
   "dependencies": {
-    "@babel/runtime": "^7.6.2",
     "emotion": "^10.0.17"
   },
   "peerDependencies": {

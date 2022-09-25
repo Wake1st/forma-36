@@ -1,5 +1,79 @@
 # @contentful/f36-datepicker
 
+## 4.20.6
+
+### Patch Changes
+
+- Updated dependencies [[`05bdd10f`](https://github.com/contentful/forma-36/commit/05bdd10f5ea6fae41cacb0f4fd3db0bdd65422e9)]:
+  - @contentful/f36-icons@4.20.6
+  - @contentful/f36-button@4.20.6
+  - @contentful/f36-forms@4.20.6
+  - @contentful/f36-popover@4.20.6
+  - @contentful/f36-typography@4.20.6
+  - @contentful/f36-core@4.20.6
+
+## 4.20.5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @contentful/f36-button@4.20.5
+  - @contentful/f36-forms@4.20.5
+  - @contentful/f36-icons@4.20.5
+  - @contentful/f36-popover@4.20.5
+  - @contentful/f36-typography@4.20.5
+  - @contentful/f36-core@4.20.5
+
+## 4.20.4
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @contentful/f36-button@4.20.4
+  - @contentful/f36-forms@4.20.4
+  - @contentful/f36-icons@4.20.4
+  - @contentful/f36-popover@4.20.4
+  - @contentful/f36-typography@4.20.4
+  - @contentful/f36-core@4.20.4
+
+## 4.20.3
+
+### Patch Changes
+
+- Updated dependencies [[`d3c27ab8`](https://github.com/contentful/forma-36/commit/d3c27ab830ec9c2cc096e8be33da496c2dc284ea)]:
+  - @contentful/f36-core@4.20.3
+  - @contentful/f36-button@4.20.3
+  - @contentful/f36-forms@4.20.3
+  - @contentful/f36-icons@4.20.3
+  - @contentful/f36-popover@4.20.3
+  - @contentful/f36-typography@4.20.3
+
+## 4.20.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @contentful/f36-button@4.20.2
+  - @contentful/f36-forms@4.20.2
+  - @contentful/f36-icons@4.20.2
+  - @contentful/f36-popover@4.20.2
+  - @contentful/f36-typography@4.20.2
+  - @contentful/f36-core@4.20.2
+
+## 4.20.1
+
+### Patch Changes
+
+- [#2223](https://github.com/contentful/forma-36/pull/2223) [`0dd9f38f`](https://github.com/contentful/forma-36/commit/0dd9f38fedee14b9dc9998501a6706f865aca708) Thanks [@denkristoffer](https://github.com/denkristoffer)! - build: add datepicker package to changeset
+
+- Updated dependencies []:
+  - @contentful/f36-button@4.20.1
+  - @contentful/f36-forms@4.20.1
+  - @contentful/f36-icons@4.20.1
+  - @contentful/f36-popover@4.20.1
+  - @contentful/f36-typography@4.20.1
+  - @contentful/f36-core@4.20.1
+
 ## 4.2.2
 
 ### Patch Changes
